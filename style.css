@@ -12,7 +12,7 @@ body
   
   /* Menu */
   nav {
-    background-color: #333;
+    background-color: #01060d;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -62,8 +62,8 @@ body
   }
 
   .foto-perfil {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     margin-bottom: 20px;
     display: block;
